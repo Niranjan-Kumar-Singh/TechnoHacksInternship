@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+}
+
+.stopwatch{
+    width:800px;
+	height:300px;
+    border: 1px solid #717377;
+    box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+    background: transparent;
+    padding: 20px 20px;
+    border-radius: 16px;
+}
+
+.timerDisplay{
+    padding: 45px 5px 45px 60px;
+    font-size: 120px;
+    font-weight: 600;
+}
+
+.buttons{
+    margin-top: 50px;
+}
+
+.btn{
+    font-size: 50px;
+    background: transparent;
+    border: none;
+    color: #fff;
+    background-color: var(--clr);
+    padding: 12px 24px;
+    margin-inline: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.footer{
+    position: fixed;  
+    left: 10px;  
+    bottom: 5px;  
+    right: 10px;   
+    width: 100%;  
+    background-color: #ffffff1a;  
+    color: #ffffff;  
+    text-align: center;
+    font-size: 30px;
+}
+
+#stopBtn{
+    background-color: transparent;
+    color: red;
+    border: 2px solid red;
+}
+
+#startBtn{
+    background-color: transparent;
+    color: green;
+    border: 2px solid green;
+}
+
+#resetBtn{
+    background-color: transparent;
+    color: yellow;
+    border: 2px solid yellow;
+}
