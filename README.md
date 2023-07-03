@@ -14,6 +14,20 @@ The Countdown Timer project is a sleek and intuitive application designed to hel
 
 **Live Demo:** [Countdown Timer](https://niranjan-kumar-singh.github.io/TechnoHacksInternship/CountdownTimer)
 
+## 3. Personal Portfolio Page
+
+The Personal Portfolio Page is Web Page which showcases my work and provides insights into my background, skills, and projects.
+
+**Live Demo:** [Countdown Timer](https://niranjan-kumar-singh.github.io/TechnoHacksInternship/Portfolio)
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- FontAwesome
+
 ## How to Use
 
 To use either project, simply click on the corresponding URL provided above to access the live demo. The projects are built using modern web development technologies such as HTML, CSS, and JavaScript, ensuring compatibility with most modern browsers.
@@ -21,6 +35,10 @@ To use either project, simply click on the corresponding URL provided above to a
 ## Contributing
 
 Contributions to these projects are welcome. If you encounter any issues or have suggestions for improvements, please open an issue in the respective project's repository.
+
+## Feedback and Contact
+
+I appreciate any feedback or suggestions you may have. If you have any ideas for improvement or would like to get in touch, feel free to reach out to me through the contact form on the website.
 
 ## License
 
